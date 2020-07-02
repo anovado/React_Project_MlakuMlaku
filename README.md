@@ -1,4 +1,4 @@
-# PROJECT-REACT
+# PROJECT REACT MLAKU-MLAKU
 ## Website: [Mlaku-mlaku](https://mlaku-mlaku.netlify.app)
 
 This repository is created as part of a team project during Alterra Academy Software Engineer bootcamp. We were asked to create a Front-End APIs project using ReactJS with Redux in 2 days. 
