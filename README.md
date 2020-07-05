@@ -5,6 +5,13 @@ This repository is created as part of a team project during Alterra Academy Soft
 
 The idea of this project is to help user get clothing recommendation based on their holiday destination.
 
+The features of this project are:
+- User Login and Registration
+- Search products from location
+- Get all recommended product based on the destination's weather
+- Show an HD image of the destination 
+- Filter results based on gender, type of clothing, price, and rating
+
 This project uses 3 APIs: 
 | No | API |
 | --- | -------- |
@@ -14,7 +21,7 @@ This project uses 3 APIs:
 
 
 Developers:
-- Andre Novado
+- [Andre Novado](https://www.linkedin.com/in/andre-novado/)
 - [Derby Prayogo](https://github.com/derbyps)
 - [Fazlur Rahman](https://github.com/alulfazlur)
 - [Yopi Ragil](https://github.com/YopiRagil)
